@@ -20,4 +20,5 @@ By leveraging the SD model, MoEdit enables customized preservation and modificat
 # 4. How to use
 
 # 5. Contact
-* [p2424484@mpu.edu.mo](p2424484@mpu.edu.mo)
+* [p2424484@mpu.edu.mo](p2424484@mpu.edu.mo)  
+* [taotan@mpu.edu.mo](taotan@mpu.edu.mo)
