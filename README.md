@@ -7,9 +7,9 @@ The source code of MoEdit.
 
 This repository corresponds to the preliminary conference version of MoGen. An extended version of this work, with a refactored codebase and enhanced support for flexible multi-source control signals, is now available at:
 
-- **Extended version:** [MoGen Extended Version](https://github.com/Tear-kitty/MoGen)
+- **Extended version:** [MoGen Extended Version](https://github.com/Tear-kitty/MoGen) 
 
-The multi-object dataset resources introduced in the preliminary version are released through this repository. Please refer to the [Dataset](#dataset) section for download links and usage instructions.
+The multi-object dataset resources introduced in the preliminary version are released through this repository. Please refer to the [Dataset](https://github.com/Tear-kitty/MoGen#dataset) section for download links and usage instructions.
 
 # 1. Todo
 - [ ] Release evaluation code
